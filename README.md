@@ -108,7 +108,7 @@ Compatible with all phone screens. Tablet and computer</p>
             </div>
             <div class="project-card">
                 <div class="project-image">
-                    <img src="/storage/emulated/0/First project.html/Project 1/Screenshot_2023-11-06-22-03-23-453_com.qamar.editor.html.png" />
+                    <img src="Image0.005.png" />
                 </div>
                 <div class="project-info">
                     <p class="project-category">Script Escape Velocity Production</p>
