@@ -120,7 +120,7 @@ Compatible with all phone screens. Tablet and computer</p>
             </div>
             <div class="project-card">
                 <div class="project-image">
-                    <img src="/storage/emulated/0/First project.html/Project 1/projection.jpg" />
+                    <img src="projection.jpg" />
                 </div>
                 <div class="project-info">
                     <p class="project-category">Script Elements Production</p>
