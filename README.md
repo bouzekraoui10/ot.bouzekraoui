@@ -84,7 +84,7 @@ Compatible with all phone screens. Tablet and computer</p>
             </div>
             <div class="project-card">
                 <div class="project-image">
-                    <img src="/storage/emulated/0/First project.html/Project 1/IMG_20231106_183026.jpg" />
+                    <img src="Image.00.1.jpg" />
                 </div>
                 <div class="project-info">
                     <p class="project-category">Script Halcyonic Production</p>
