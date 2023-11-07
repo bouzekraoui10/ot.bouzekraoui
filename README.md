@@ -78,7 +78,7 @@ Compatible with all phone screens. Tablet and computer</p>
                     <p class="project-category">Script Eventually Production</p>
                     <strong class="project-title">
                         <span>Eventually</span>
-                        <a href="/storage/emulated/0/First project.html/Project 2/html5up-eventually/index.html" class="more-details">More details</a>
+                        <a href="https://www.instagram.com/p/CzWLGr5NIjd/?igshid=MzRlODBiNWFlZA==" class="more-details">More details</a>
                     </strong>
                 </div>
             </div>
@@ -90,7 +90,7 @@ Compatible with all phone screens. Tablet and computer</p>
                     <p class="project-category">Script Halcyonic Production</p>
                     <strong class="project-title">
                         <span>Halcyonic</span>
-                        <a href="/storage/emulated/0/First project.html/Project 3/html5up-halcyonic/index.html" class="more-details">More details</a>
+                        <a href="https://www.instagram.com/p/CzWLKwUNI29/?igshid=MzRlODBiNWFlZA==" class="more-details">More details</a>
                     </strong>
                 </div>
             </div>
@@ -102,7 +102,7 @@ Compatible with all phone screens. Tablet and computer</p>
                     <p class="project-category">Script Dopetrope Production</p>
                     <strong class="project-title">
                         <span>Dopetrope</span>
-                        <a href="/storage/emulated/0/First project.html/Project 4/html5up-dopetrope/index.html" class="more-details">More details</a>
+                        <a href="https://www.instagram.com/p/CzWLKwUNI29/?igshid=MzRlODBiNWFlZA==" class="more-details">More details</a>
                     </strong>
                 </div>
             </div>
@@ -114,7 +114,7 @@ Compatible with all phone screens. Tablet and computer</p>
                     <p class="project-category">Script Escape Velocity Production</p>
                     <strong class="project-title">
                         <span>Escape Velocity</span>
-                        <a href="/storage/emulated/0/First project.html/Project 5/html5up-escape-velocity/index.html" class="more-details">More details</a>
+                        <a href="https://www.instagram.com/p/CzWLb4GttVt/?igshid=MzRlODBiNWFlZA==" class="more-details">More details</a>
                     </strong>
                 </div>
             </div>
