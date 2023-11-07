@@ -72,7 +72,7 @@ Compatible with all phone screens. Tablet and computer</p>
         <div class="content">
             <div class="project-card">
                 <div class="project-image">
-                    <img src="Screenshot_2023-11-06-18-42-26-315_com.qamar.editor.html.png" />
+                    <img src="Image7.70.png" />
                 </div>
                 <div class="project-info">
                     <p class="project-category">Script Eventually Production</p>
