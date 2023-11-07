@@ -126,7 +126,7 @@ Compatible with all phone screens. Tablet and computer</p>
                     <p class="project-category">Script Elements Production</p>
                     <strong class="project-title">
                         <span>Elements</span>
-                        <a href="/storage/emulated/0/First project.html/Project 6/templated-projection/projection/elements.html" class="more-details">More details</a>
+                        <a href="https://www.instagram.com/p/CzWLeS8tJUN/?igshid=MzRlODBiNWFlZA==" class="more-details">More details</a>
                     </strong>
                 </div>
             </div>
