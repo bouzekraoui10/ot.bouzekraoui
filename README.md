@@ -96,7 +96,7 @@ Compatible with all phone screens. Tablet and computer</p>
             </div>
             <div class="project-card">
                 <div class="project-image">
-                    <img src="/storage/emulated/0/First project.html/Project 1/Screenshot_2023-11-06-19-58-24-013_com.qamar.editor.html.png" />
+                    <img src="Image.74.9.png" />
                 </div>
                 <div class="project-info">
                     <p class="project-category">Script Dopetrope Production</p>
