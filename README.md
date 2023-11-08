@@ -15,7 +15,7 @@
         <nav class="navigation">
             <a href="#services">Services</a>
             <a href="#projects">Projects</a>
-            <a href="#contact">Contact</a>
+            <a href="index0.html">Contact</a>
         </nav>
     </header>
 
