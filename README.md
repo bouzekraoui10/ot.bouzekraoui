@@ -7,6 +7,8 @@
     <link rel="stylesheet" href="style.css">
     <link rel="icon" href="Img0021.jpg">
     <title>Otmane Bouzekraoui</title>
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2481146439843039"
+     crossorigin="anonymous"></script>
 </head>
 <body>
 
